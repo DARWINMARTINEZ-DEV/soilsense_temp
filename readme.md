@@ -1,1 +1,1 @@
-dataset relacionao con el estudio de suelo, eñ ucel contiene variables de suma importancia para su comprensión como pH, Condictividad eléctrica, NPKK, temperatura, humedad, niveles de compatación (normal, medio compactado, muy compactado), profundidad y tiempo.
+dataset relacionado con el estudio de suelo, el cual contiene variables de suma importancia para su comprensión como pH, Condictividad eléctrica, NPK, temperatura, humedad, niveles de compatación (normal, medio compactado, muy compactado), profundidad y tiempo.
